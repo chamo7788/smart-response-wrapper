@@ -18,7 +18,7 @@ A lightweight, framework-agnostic utility to standardize your API responses. Ens
 ## 📦 Installation
 
 ```bash
-npm install api-response-wrapper
+npm install smart-response-wrapper
 ```
 
 ---
