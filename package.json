@@ -2,13 +2,17 @@
   "name": "smart-response-wrapper",
   "version": "1.0.0",
   "description": "A generic API response wrapper for standardized responses",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chamo7788/smart-response-wrapper.git"
+  },
   "keywords": [
     "api",
     "wrapper",
     "response",
     "http"
   ],
-  "author": "Your Name",
+  "author": "Chamodya Ganegamage",
   "license": "MIT",
   "type": "module",
   "main": "./dist/index.js",
