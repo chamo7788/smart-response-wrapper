@@ -1,10 +1,13 @@
 {
-  "name": "smart-response-wrapper",
+  "name": "@chamo7788/smart-response-wrapper",
   "version": "1.0.0",
   "description": "A generic API response wrapper for standardized responses",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chamo7788/smart-response-wrapper.git"
+    "url": "https://github.com/chamo7788/smart-response-wrapper.git"
+  },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
   },
   "keywords": [
     "api",
